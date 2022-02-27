@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

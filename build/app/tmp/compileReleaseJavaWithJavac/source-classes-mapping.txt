@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ist/yesil/MainActivity.java
+ com.ist.yesil.MainActivity
+com/ist/yesil/BuildConfig.java
+ com.ist.yesil.BuildConfig

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ea62d8b64584df1dadb03a4bd70e8f5a/media-1.0.0/res/layout/notification_template_big_media.xml"
+    }
+]

@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "610038275803",
+    "project_id": "yesil-ea967",
+    "storage_bucket": "yesil-ea967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610038275803:android:3749f47569783b325136fe",
+        "android_client_info": {
+          "package_name": "com.ist.yesil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610038275803-8s2e691941lfkrc1vuf7dbe0c8bno4uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ist.yesil",
+            "certificate_hash": "01ab83cb329cb39dc085d24828577c587e5329d0"
+          }
+        },
+        {
+          "client_id": "610038275803-8slut3dhsk8a37nl4nai4ebeo0q4ft1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ist.yesil",
+            "certificate_hash": "1cef4f02af6512ccd920ae508bc2adba2a7dff9a"
+          }
+        },
+        {
+          "client_id": "610038275803-dit9ecm1nove85fn7is6khrtaj0fo317.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ist.yesil",
+            "certificate_hash": "3476836ada57cf4a2fe0d67c090bdfd0bc957294"
+          }
+        },
+        {
+          "client_id": "610038275803-ncj65jibo8u7jskpnme2m9dd51sidc53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ist.yesil",
+            "certificate_hash": "d0f610056b13ad66b7e67ad17d7d8501df24aa23"
+          }
+        },
+        {
+          "client_id": "610038275803-6u3vi32hd4o77ft3el0vasfd9jindlg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJsRZP3c1dGUrHLG_gFG0nmLh_njs_XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610038275803-0v3tks504n6fuv5ouo0u8srn0e2e1tjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

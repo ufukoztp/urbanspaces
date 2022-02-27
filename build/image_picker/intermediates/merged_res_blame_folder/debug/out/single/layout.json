@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout/notification_template_part_time.xml"
+    }
+]
