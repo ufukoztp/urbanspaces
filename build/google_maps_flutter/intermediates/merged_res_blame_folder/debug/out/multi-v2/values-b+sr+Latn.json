@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_maps_flutter/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/google_maps_flutter/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/69a9aee2f6888c60acaa93c59aae513c/jetified-play-services-basement-17.0.0/res/values-b+sr+Latn/values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_maps_flutter/intermediates/res/merged/debug/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/google_maps_flutter/intermediates/res/merged/debug/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/69a9aee2f6888c60acaa93c59aae513c/jetified-play-services-basement-17.0.0/res/values-b+sr+Latn/values.xml",

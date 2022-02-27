@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/shared_preferences/intermediates/res/merged/debug/values-v16/values-v16.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/shared_preferences/intermediates/res/merged/debug/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/values-v16/values-v16.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/shared_preferences/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/shared_preferences/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/values-v16/values-v16.xml",

@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
     }
 ]

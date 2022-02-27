@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/cbb9d0a9c370f8b735267cecf079934a/jetified-play-services-base-17.1.0/res/values-az/values.xml",

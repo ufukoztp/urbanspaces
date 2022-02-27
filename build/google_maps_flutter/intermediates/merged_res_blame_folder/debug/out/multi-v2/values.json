@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_maps_flutter/intermediates/res/merged/debug/values/values.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/google_maps_flutter/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/f219302f71dd003ae11662f416ed9993/jetified-play-services-base-17.0.0/res/values/values.xml",
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_maps_flutter/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/google_maps_flutter/intermediates/res/merged/debug/values/values.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/f219302f71dd003ae11662f416ed9993/jetified-play-services-base-17.0.0/res/values/values.xml",

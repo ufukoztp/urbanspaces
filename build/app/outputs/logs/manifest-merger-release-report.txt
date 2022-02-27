@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
-MERGED from [:google_sign_in] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:google_maps_flutter] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
-MERGED from [:flutter_plugin_android_lifecycle] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:maps_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/maps_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
-MERGED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
-MERGED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
-MERGED from [:shared_preferences] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
+MERGED from [:google_sign_in] /Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_maps_flutter] /Users/ufukoztop/urbanspaces/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ufukoztop/urbanspaces/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:maps_launcher] /Users/ufukoztop/urbanspaces/build/maps_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:shared_preferences] /Users/ufukoztop/urbanspaces/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/18e0c35a47111636ac91e15c647a9218/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:17:1-83:12
 MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/fd3f3d291132cb1342ac81ece144f009/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:2:1-26:12
@@ -71,29 +71,29 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ufukoztop/.gra
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/ba7ca2e28b3c7952a9c9512f1fa764e9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/4a2b9f8619f0de6e8922912b7661e2d1/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/43024bf3fd1b4f19a0bb0d29143795eb/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
 	package
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:1-71:12
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:1-71:12
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:13:5-67
-MERGED from [:google_sign_in] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
-MERGED from [:google_sign_in] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
-MERGED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:8:5-67
-MERGED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:8:5-67
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [:google_sign_in] /Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/fd3f3d291132cb1342ac81ece144f009/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:14:5-67
@@ -111,21 +111,21 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/e6cbabfd5d8c95a6a6f2de1bc326f04f/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/e6cbabfd5d8c95a6a6f2de1bc326f04f/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:13:22-64
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:13:22-64
 application
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:15:5-69:19
-MERGED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
-MERGED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
-MERGED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
-MERGED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:11:5-17:19
-MERGED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:11:5-17:19
-MERGED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:15:5-69:19
+MERGED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:11:5-17:19
+MERGED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/18e0c35a47111636ac91e15c647a9218/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/18e0c35a47111636ac91e15c647a9218/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:26:5-81:19
@@ -175,85 +175,85 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ufuk
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:18:9-30
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:18:9-30
 	android:icon
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:17:9-45
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:17:9-45
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:16:9-57
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:16:9-57
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:20:1-22:59
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:20:1-22:59
 	android:value
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:22:1-56
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:22:1-56
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:21:1-46
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:21:1-46
 activity#com.ist.yesil.MainActivity2
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:26:9-61:20
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:26:9-61:20
 	android:launchMode
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:30:13-43
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:30:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:29:13-47
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:29:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:32:13-55
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:32:13-55
 	android:configChanges
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:28:13-163
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:28:13-163
 	android:theme
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:31:13-47
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:31:13-47
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:27:13-42
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:27:13-42
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:40:13-42:57
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:40:13-42:57
 	android:resource
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:42:17-54
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:42:17-54
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:41:17-72
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:41:17-72
 meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:50:13-52:66
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:50:13-52:66
 	android:resource
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:52:17-63
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:52:17-63
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:51:17-81
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:51:17-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:54:13-58:29
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:54:13-58:29
 action#android.intent.action.MAIN
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:55:17-69
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:55:17-69
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:55:25-66
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:55:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:57:17-77
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:57:17-77
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:57:27-74
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:57:27-74
 meta-data#flutterEmbedding
-ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:66:9-68:33
+ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:66:9-68:33
 	android:value
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:68:13-30
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:68:13-30
 	android:name
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml:67:13-44
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:67:13-44
 uses-sdk
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-MERGED from [:google_sign_in] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:google_sign_in] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:google_maps_flutter] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:google_maps_flutter] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:maps_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/maps_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:maps_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/maps_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+MERGED from [:google_sign_in] /Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /Users/ufukoztop/urbanspaces/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /Users/ufukoztop/urbanspaces/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ufukoztop/urbanspaces/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ufukoztop/urbanspaces/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:maps_launcher] /Users/ufukoztop/urbanspaces/build/maps_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:maps_launcher] /Users/ufukoztop/urbanspaces/build/maps_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/ufukoztop/urbanspaces/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/ufukoztop/urbanspaces/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/18e0c35a47111636ac91e15c647a9218/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/18e0c35a47111636ac91e15c647a9218/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:21:5-44
@@ -366,42 +366,42 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ufukoztop/.gradl
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/4a2b9f8619f0de6e8922912b7661e2d1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/43024bf3fd1b4f19a0bb0d29143795eb/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/43024bf3fd1b4f19a0bb0d29143795eb/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+ADDED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
-		ADDED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+		ADDED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
 	android:authorities
-		ADDED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+		ADDED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
 	android:exported
-		ADDED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+		ADDED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
+		ADDED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+ADDED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
 	android:resource
-		ADDED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+		ADDED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
 	android:name
-		ADDED from [:image_picker] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+		ADDED from [:image_picker] /Users/ufukoztop/urbanspaces/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+ADDED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
 	android:exported
-		ADDED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+		ADDED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
 	android:theme
-		ADDED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+		ADDED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
 	android:name
-		ADDED from [:url_launcher] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+		ADDED from [:url_launcher] /Users/ufukoztop/urbanspaces/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/fd3f3d291132cb1342ac81ece144f009/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:13:5-79
@@ -421,9 +421,9 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/e6cbabfd5d8c95a6a6f2de1bc326f04f/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/e6cbabfd5d8c95a6a6f2de1bc326f04f/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+		ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:9:5-68
+ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:9:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b6095b7414ce016a2ce0ba9a388719aa/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b6095b7414ce016a2ce0ba9a388719aa/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/8ef9b57e4ea0dd9a0933764119c80596/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:25:5-68
@@ -433,15 +433,15 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/e6cbabfd5d8c95a6a6f2de1bc326f04f/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/e6cbabfd5d8c95a6a6f2de1bc326f04f/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:9:22-65
+		ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:9:22-65
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:12:9-16:19
-MERGED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:12:9-16:19
+MERGED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
 MERGED from [com.google.firebase:firebase-firestore:24.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/fd3f3d291132cb1342ac81ece144f009/jetified-firebase-firestore-24.0.0/AndroidManifest.xml:17:9-23:19
@@ -459,31 +459,31 @@ MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/ufukoztop/.gradl
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/806c16e510f5404f97d15620429ecec1/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:12:18-89
+		ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:12:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:85
+ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:85
 	android:value
-		ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:15:17-82
+		ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:15:17-82
 	android:name
-		ADDED from [:firebase_analytics] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:14:17-127
+		ADDED from [:firebase_analytics] /Users/ufukoztop/urbanspaces/build/firebase_analytics/intermediates/library_manifest/release/AndroidManifest.xml:14:17-127
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:10:17-134
+		ADDED from [:cloud_firestore] /Users/ufukoztop/urbanspaces/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:10:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_auth] /Users/ufukoztop/urbanspaces/build/firebase_auth/intermediates/library_manifest/release/AndroidManifest.xml:10:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] /Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_core] /Users/ufukoztop/urbanspaces/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-124
 activity#com.google.firebase.auth.internal.GenericIdpActivity
 ADDED from [com.google.firebase:firebase-auth:21.0.1] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/39537eaca94d6ce3ab8ab83953bcf9e0/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
 	android:excludeFromRecents

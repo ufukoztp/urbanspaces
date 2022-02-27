@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
         "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3122d2e0db1dfafb1eeb329e52386d7d/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3122d2e0db1dfafb1eeb329e52386d7d/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3122d2e0db1dfafb1eeb329e52386d7d/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3122d2e0db1dfafb1eeb329e52386d7d/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3122d2e0db1dfafb1eeb329e52386d7d/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
     }
 ]

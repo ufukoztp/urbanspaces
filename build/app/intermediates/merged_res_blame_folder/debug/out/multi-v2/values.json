@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/f1cb104b2d2acccced7b090872dec18b/coordinatorlayout-1.0.0/res/values/values.xml",
@@ -23,20 +23,22 @@
                     }
                 },
                 {
-                    "source": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/Users/ufukoztop/urbanspaces/android/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,709",
-                        "endColumns": "143,81,103,108,119,94,71",
-                        "endOffsets": "194,276,380,489,609,704,776"
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "134,777",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "426,937"
                     },
                     "to": {
-                        "startLines": "111,112,113,114,115,116,117",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "8183,8327,8409,8513,8622,8742,8837",
-                        "endColumns": "143,81,103,108,119,94,71",
-                        "endOffsets": "8322,8404,8508,8617,8737,8832,8904"
+                        "startLines": "119,124",
+                        "startColumns": "4,4",
+                        "startOffsets": "8980,9277",
+                        "endLines": "123,126",
+                        "endColumns": "12,12",
+                        "endOffsets": "9272,9437"
                     }
                 },
                 {
@@ -56,6 +58,23 @@
                         "endLines": "7,8,9,10,11,12,13,14,93,94,95,96,97,98,99,100,102,103,104,105,106,107,108,109,110,380,458",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "500,580,670,760,840,921,1001,1081,5950,6131,6256,6363,6543,6666,6782,6885,7240,7345,7526,7651,7826,7974,8037,8099,8178,24019,25858"
+                    }
+                },
+                {
+                    "source": "/Users/ufukoztop/urbanspaces/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,709",
+                        "endColumns": "143,81,103,108,119,94,71",
+                        "endOffsets": "194,276,380,489,609,704,776"
+                    },
+                    "to": {
+                        "startLines": "111,112,113,114,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "8183,8327,8409,8513,8622,8742,8837",
+                        "endColumns": "143,81,103,108,119,94,71",
+                        "endOffsets": "8322,8404,8508,8617,8737,8832,8904"
                     }
                 },
                 {
@@ -128,25 +147,6 @@
                         "startOffsets": "166,224,290,353,1350,1421",
                         "endColumns": "57,65,62,61,70,71",
                         "endOffsets": "219,285,348,410,1416,1488"
-                    }
-                },
-                {
-                    "source": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "134,777",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "426,937"
-                    },
-                    "to": {
-                        "startLines": "119,124",
-                        "startColumns": "4,4",
-                        "startOffsets": "8980,9277",
-                        "endLines": "123,126",
-                        "endColumns": "12,12",
-                        "endOffsets": "9272,9437"
                     }
                 }
             ]

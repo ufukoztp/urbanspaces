@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b4a16ebbed4929cc46fbf71c90be5a00/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b4a16ebbed4929cc46fbf71c90be5a00/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
         "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b4a16ebbed4929cc46fbf71c90be5a00/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
-        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b4a16ebbed4929cc46fbf71c90be5a00/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+        "merged": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b4a16ebbed4929cc46fbf71c90be5a00/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
     }
 ]

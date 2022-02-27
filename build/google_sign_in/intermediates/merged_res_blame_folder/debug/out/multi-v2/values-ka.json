@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/values-ka/values-ka.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/values-ka/values-ka.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3122d2e0db1dfafb1eeb329e52386d7d/jetified-play-services-base-16.0.1/res/values-ka/values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3122d2e0db1dfafb1eeb329e52386d7d/jetified-play-services-base-16.0.1/res/values-ka/values.xml",

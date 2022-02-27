@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/res/merged/debug/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/res/merged/debug/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b4a16ebbed4929cc46fbf71c90be5a00/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "outputFile": "/Users/ufukoztop/AndroidStudioProjects/solution_challenge/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/ufukoztop/urbanspaces/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/b4a16ebbed4929cc46fbf71c90be5a00/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",
