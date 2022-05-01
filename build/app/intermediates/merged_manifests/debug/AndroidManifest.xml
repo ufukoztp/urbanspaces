@@ -26,7 +26,7 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/launcher_icon"
-        android:label="Yeşil" >
+        android:label="UrbanSpaces" >
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyC9b7HgMd2ZrIwBGHFyJn11NlJ7P1BoEZU" />

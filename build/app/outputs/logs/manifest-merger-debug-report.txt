@@ -178,7 +178,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ufuk
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/ufukoztop/.gradle/caches/transforms-2/files-2.1/3a186365f64e0dde02adace4d57486bf/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:18:9-30
+		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:18:9-36
 	android:icon
 		ADDED from /Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:17:9-45
 	android:name

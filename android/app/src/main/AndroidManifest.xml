@@ -15,7 +15,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:icon="@mipmap/launcher_icon"
-        android:label="Yeşil">
+        android:label="UrbanSpaces">
 
 <meta-data
 android:name="com.google.android.geo.API_KEY"

@@ -1,4 +1,4 @@
-#Sun Feb 27 18:22:28 EET 2022
+#Sun Feb 27 20:16:28 EET 2022
 base.2=/Users/ufukoztop/urbanspaces/build/app/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
 base.1=/Users/ufukoztop/urbanspaces/build/app/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
 base.0=/Users/ufukoztop/urbanspaces/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex

@@ -41,8 +41,8 @@
 27        android:debuggable="true"
 28        android:icon="@mipmap/launcher_icon"
 28-->/Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:17:9-45
-29        android:label="Yeşil" >
-29-->/Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:18:9-30
+29        android:label="UrbanSpaces" >
+29-->/Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:18:9-36
 30        <meta-data
 30-->/Users/ufukoztop/urbanspaces/android/app/src/main/AndroidManifest.xml:20:1-22:59
 31            android:name="com.google.android.geo.API_KEY"
